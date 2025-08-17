@@ -1,2 +1,2 @@
-# testrepo
-testrepo
+# Testrepo
+Testing repository
